@@ -7,7 +7,7 @@
 
 適用ライセンス： MIT License
 
-(c) Copyright by 平野正喜(ランドッグ・オーグ平野正喜事務所)
+(c) Copyright by Masaki Hirano (ランドッグ・オーグ平野正喜事務所)
 
 ---
 contents　情報セキュリティマネジメント試験の教科書目次  

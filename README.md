@@ -4,10 +4,11 @@
 ---
 
 これは2017年に出版予定だった拙著書籍をそのままの形で公開するものです。  
-
 適用ライセンス： MIT License
+Copyright(c) Masaki Hirano (ランドッグ・オーグ平野正喜事務所)
 
-(c) Copyright by Masaki Hirano (ランドッグ・オーグ平野正喜事務所)
+なお、サンプル問題と解説、試験問題と解説などで用いている問題文の著作権はIPAにあります。
+Copyright(c) Information-technology Promotion Agency, Japan.
 
 ---
 contents　情報セキュリティマネジメント試験の教科書目次  
